@@ -1,6 +1,6 @@
-# Quiz Evaluetion
+# Quiz Evaluation
 
-Esta repositório tem como proposição testar, avaliar e correlacionar 4 tipos de sistemas de quiz para determinar ponto positivos e negativos  
+Está repositório tem como proposição testar, avaliar e correlacionar 4 tipos de sistemas de quiz para determinar pontos positivos e negativos 
 
 ## Link para os sistemas a serem avaliados:
 * [Quiz-Website](https://github.com/shagun6/Quiz-Website)
@@ -11,13 +11,13 @@ Esta repositório tem como proposição testar, avaliar e correlacionar 4 tipos 
 -Em PHP
 * [Quiz-website](https://github.com/M-Waweru/Quiz-website)
 
-## Criterios de avaliação 
+## Critérios de avaliação 
 
 1 Interface 
 > O sistema precisa ter uma Interfase responsiva.
 
 2 Coleta de Dados 
-> E nescesario fazer a coleta de dados confome abaixo:  
+> E necessário fazer a coleta de dados conforme abaixo:  
 > * Nome 
 > * Telefone  
 > * Instituição de ensino
