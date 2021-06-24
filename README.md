@@ -8,8 +8,8 @@ Está repositório tem como proposição testar, avaliar e correlacionar 4 tipos
 * [quick-quiz](https://github.com/UrbanInstitute/quick-quiz)
 -Jeito de sistema
 * [pa-driver-tests](https://github.com/SethClydesdale/pa-driver-tests)
--Em PHP
 * [Quiz-website](https://github.com/M-Waweru/Quiz-website)
+-Em PHP
 
 ## Critérios de avaliação 
 
@@ -26,10 +26,23 @@ Está repositório tem como proposição testar, avaliar e correlacionar 4 tipos
 > E preciso ter um sistema de rankeamento por quiz.
 
 # Quiz Website by [shagun6](https://github.com/shagun6)
-...
+Um sistema extremamente simples feito de uma maneiro amadora, que utiliza das linguagens HTML, CSS e JavaScript. Esse projeto faz uso do JS como avaliador dos resultados e não possui nenhum sistema de pontuação, a navegação e feita pelo html, utilizando a tag ancora.
+Os quizes são feitos em HTML, então a pessoa que for ciar o quiz teria que saber HTML.
+Achei muito simples para se utilizar, porém não é simples demais para se utilizar profissionalmente.
+
 # Quick Quiz by [UrbanInstitute](https://github.com/UrbanInstitute)
-...
+Um sistema de quiz feito utilizando JavaScript, CSS e Pythom, onde o JavaScript e responsável por manipulação de DOM e interface, o CSS faz a estilização dos elementos e o Pythom faz a análise dos resultados, o sistema não possui uma forma de rakeamento, porém a forma que ele foi feito proporciona uma facilidade para desenvolvimento do sistema de ranking.
+Os quizes som feito no formato de JSON, não possui um sistema para isso, porém fácil de manipular.
+
+Um sistema muito bom e fácil de compreensão.
+
 # Pa Driver Tests by [SethClydesdale](https://github.com/SethClydesdale)
-...
+Um sistema de quiz responsivo, feito com as linguagens HTML, CSS e JavaScript, tem um sistema de avaliação, porém não faz ranking.
+Como o primeiro e necessário fazer a página de teste separada do sistema, porém utiliza o sistema de JSON para montar o quiz, deixando mais fácil de fazer.
+
+Um sistema com uma interface boa e responsiva.
+
 # Quiz website by [M-Waweru](https://github.com/M-Waweru)
-...
+O projeto está incompleto, feito utilizando HTML, CSS, JS e PHP, tem uma função de autenticação feita por PHP e uma interface bonita, mais a parte mais importante não tem, pois não possui os quizer e nenhum ambiente para criar quiz.
+
+Bom projeto mais incompleto.
